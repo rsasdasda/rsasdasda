@@ -1,4 +1,4 @@
-👋 Hi there! I'm currently a BS student at National Cheng Kung University (NCKU), with deep interests spanning several areas in computer science and technology:
+👋 Hi there! I'm currently a PhD student at National Taiwan University (NTU), with deep interests spanning several areas in computer science and technology:
 
 - **Deep Learning & Computer Vision**: I’m particularly fascinated by convolutional neural networks (CNNs), object detection models, and generative adversarial networks (GANs). I love exploring how these techniques can be applied to complex real-world scenarios like autonomous driving, medical imaging, and even artistic generation.
 
