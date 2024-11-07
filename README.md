@@ -8,4 +8,4 @@
 
 - **Quantum Programming**: I'm excited about the future of quantum computing! I explore quantum algorithms, such as Grover’s and Shor’s algorithms, and experiment with quantum programming languages like Qiskit. My goal is to understand how quantum computing can solve problems that are intractable for classical computers.
 
-- **Compiler Systems**: I’m captivated by the compiler’s role in translating high-level code into efficient machine code. I have experience with compiler optimization techniques, parsing algorithms, and intermediate representation (IR) generation, and I’m eager to dive deeper into advanced optimizations.
+- **Compiler**: I’m captivated by the compiler’s role in translating high-level code into efficient machine code. I have experience with compiler optimization techniques, parsing algorithms, and intermediate representation (IR) generation, and I’m eager to dive deeper into advanced optimizations.
